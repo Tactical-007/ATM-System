@@ -1,0 +1,46 @@
+2. Preparation of Software Requirement Specification Document, Design Documents and Testing Phase related documents.
+
+1. Introduction
+
+The Online ATM System is a computerized banking system that allows customers to perform banking transactions through an ATM. The system provides secure authentication and enables users to withdraw cash, deposit cash, check balance, transfer funds, change PIN, and view transaction details.
+
+2. Functional Requirements
+
+The system shall:
+• Allow customers to enter ATM card details.
+• Authenticate customers using their PIN.
+• Allow customers to check account balance.
+• Allow customers to withdraw cash.
+• Allow customers to deposit cash.
+• Allow customers to transfer funds.
+• Allow customers to change their PIN.
+• Generate a mini statement.
+• Record all successful transactions.
+• Display appropriate error messages for invalid transactions.
+• Allow customers to safely end their ATM session.
+
+3. Non-Functional Requirements
+
+• Security: Customer and transaction information must be protected.
+• Reliability: Transactions should be processed accurately.
+• Performance: The system should respond quickly to user requests.
+• Usability: The interface should be simple and user-friendly.
+• Availability: The ATM system should be available whenever banking services are operational.
+• Maintainability: The system should be easy to maintain and update.
+
+4. Hardware Requirements
+
+• Computer/ATM terminal
+• Card reader
+• Keypad
+• Display screen
+• Cash dispenser
+• Receipt printer
+• Network connection
+
+5. Software Requirements
+
+• Operating System: Windows/Linux
+• Database: MySQL/Oracle
+• Programming Language: Java/Python/C#
+• Web/Application Server: As required
